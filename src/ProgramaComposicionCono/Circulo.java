@@ -1,7 +1,7 @@
 package ProgramaComposicionCono;
 
 /**
- * Método para generar objetos de círculo (base del cono)
+ * Método para generar objetos de círculo (base del cono) (Nuevo commit)
  * @author Abimael
  *
  */
